@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../databse"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
